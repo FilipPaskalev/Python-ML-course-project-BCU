@@ -1,0 +1,957 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.9)  12 MAY 2020 11:06
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2020/04/28 3.43 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2020/04/28 3.43 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count176
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language72) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language72) on input line 108.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count177
+\Gm@cntv=\count178
+\c@Gm@tempcnt=\count179
+\Gm@bindingoffset=\dimen136
+\Gm@wd@mp=\dimen137
+\Gm@odd@mp=\dimen138
+\Gm@even@mp=\dimen139
+\Gm@layoutwidth=\dimen140
+\Gm@layoutheight=\dimen141
+\Gm@layouthoffset=\dimen142
+\Gm@layoutvoffset=\dimen143
+\Gm@dimlist=\toks18
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen144
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count180
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count181
+\leftroot@=\count182
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count183
+\DOTSCASE@=\count184
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count185
+\c@MaxMatrixCols=\count186
+\dotsspace@=\muskip16
+\c@parentequation=\count187
+\dspbrk@lvl=\count188
+\tag@help=\toks20
+\row@=\count189
+\column@=\count190
+\maxfields@=\count191
+\andhelp@=\toks21
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/base\glossaries.sty"
+Package: glossaries 2020/03/19 v4.46 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count192
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/mfirstuc\mfirstuc.sty"
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+)
+\@glsmfirst=\toks26
+\@glsmrest=\toks27
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/textcase\textcase.sty"
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/xfor\xfor.sty"
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/datatool\datatool-base.sty"
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/substr\substr.sty"
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count194
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/datatool\datatool-fp.sty"
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp.sty"
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\defpattern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count195
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count196
+\FP@xia=\count197
+\FP@xib=\count198
+\FP@xfa=\count199
+\FP@xfb=\count266
+\FP@rega=\count267
+\FP@regb=\count268
+\FP@regs=\count269
+\FP@times=\count270
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-addons.sty"
+Package: fp-addons 1995/03/15
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-exp.sty"
+Package: fp-exp 1995/04/03
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-trigo.sty"
+Package: fp-trigo 1995/04/14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-pas.sty"
+Package: fp-pas 1994/08/29
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-random.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count271
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-upn.sty"
+Package: fp-upn 1996/10/21
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-eval.sty"
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks28
+\@dtl@tmpcount=\count272
+\dtl@tmplength=\skip52
+\dtl@sortresult=\count273
+\@dtl@numgrpsepcount=\count274
+\@dtl@datatype=\count275
+\dtl@codeA=\count276
+\dtl@codeB=\count277
+\@dtl@foreach@level=\count278
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/base\glossaries-compatible-3
+07.sty"
+Package: glossaries-compatible-307 2020/03/19 v4.46 (NLCT)
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/tracklang\tracklang.sty"
+Package: tracklang 2019/11/30 v1.4 (NLCT) Track Languages
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/tracklang\tracklang.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator.sty"
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries-english\glossaries-english.l
+df"
+File: glossaries-english.ldf 2014/11/23 v1.0
+)
+\gls@level=\count279
+\@gls@tmpb=\toks29
+\gls@tmplen=\skip53
+\glskeylisttok=\toks30
+\glslabeltok=\toks31
+\glsshorttok=\toks32
+\glslongtok=\toks33
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/styles\glossary-hypernav.sty
+"
+Package: glossary-hypernav 2020/03/19 v4.46 (NLCT)
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/styles\glossary-list.sty"
+Package: glossary-list 2020/03/19 v4.46 (NLCT)
+\glslistdottedwidth=\skip54
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/styles\glossary-long.sty"
+Package: glossary-long 2020/03/19 v4.46 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\longtable.sty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count280
+\LTcapwidth=\dimen155
+\LT@head=\box47
+\LT@firsthead=\box48
+\LT@foot=\box49
+\LT@lastfoot=\box50
+\LT@cols=\count281
+\LT@rows=\count282
+\c@LT@tables=\count283
+\c@LT@chunks=\count284
+\LT@p@ftn=\toks34
+)
+\glsdescwidth=\skip59
+\glspagelistwidth=\skip60
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/styles\glossary-super.sty"
+Package: glossary-super 2020/03/19 v4.46 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/supertabular\supertabular.sty"
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count285
+\ST@wd=\dimen156
+\ST@rightskip=\skip61
+\ST@leftskip=\skip62
+\ST@parfillskip=\skip63
+\ST@pageleft=\dimen157
+\ST@headht=\dimen158
+\ST@tailht=\dimen159
+\ST@pagesofar=\dimen160
+\ST@pboxht=\dimen161
+\ST@lineht=\dimen162
+\ST@prevht=\dimen163
+\ST@toadd=\dimen164
+\ST@dimen=\dimen165
+\ST@pbox=\box51
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/styles\glossary-tree.sty"
+Package: glossary-tree 2020/03/19 v4.46 (NLCT)
+\glstreeindent=\skip64
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+\lst@mode=\count286
+\lst@gtempboxa=\box52
+\lst@token=\toks35
+\lst@length=\count287
+\lst@currlwidth=\dimen166
+\lst@column=\count288
+\lst@pos=\count289
+\lst@lostspace=\dimen167
+\lst@width=\dimen168
+\lst@newlines=\count290
+\lst@lineno=\count291
+\lst@maxwidth=\dimen169
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count292
+\lst@skipnumbers=\count293
+\lst@framebox=\box53
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\glswrite=\write3
+\glo@main@file=\write4
+\openout4 = `report.glo'.
+
+Package glossaries Info: Writing glossary file report.glo on input line 15.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count294
+\l__pdf_internal_box=\box54
+)
+(D:/Projects\ML\04-report\auxil\report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(99.58464pt, 398.33858pt, 99.58466pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.33858pt
+* \textheight=591.5302pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count295
+\scratchdimen=\dimen170
+\scratchbox=\box55
+\nofMPsegments=\count296
+\nofMParguments=\count297
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count298
+\MPscratchDim=\dimen171
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
+\everyMPtoPDFconversion=\toks37
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\c@lstlisting=\count301
+<images/bcu-logo-rectangle.png, id=1, 421.575pt x 142.5325pt>
+File: images/bcu-logo-rectangle.png Graphic file (type png)
+<use images/bcu-logo-rectangle.png>
+Package pdftex.def Info: images/bcu-logo-rectangle.png  used on input line 55.
+(pdftex.def)             Requested size: 199.16928pt x 67.33824pt.
+
+report.tex:68: Undefined control sequence.
+l.68         \raggedcenter
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+report.tex:74: Undefined control sequence.
+<recently read> \cyrchar 
+                         
+l.74         \cyrchar
+                     \textnumero{} S19155623
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
+
+ []
+
+[1
+
+\openout3 = `report.ist'.
+
+{C:/Users/ASUS K55VD/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./imag
+es/bcu-logo-rectangle.png>]
+
+report.tex:84: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84     \makeglossary
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+report.tex:87: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87     \makeindex
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(D:/Projects\ML\04-report\auxil\report.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1])
+\tf@toc=\write5
+\openout5 = `report.toc'.
+
+
+(D:/Projects\ML\04-report\auxil\report.lof)
+\tf@lof=\write6
+\openout6 = `report.lof'.
+
+
+(D:/Projects\ML\04-report\auxil\report.lot)
+\tf@lot=\write7
+\openout7 = `report.lot'.
+
+ [2] [3]
+
+report.tex:111: Package inputenc Error: Unicode character ю (U+044E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 ...etacognition and memory recall ability ю
+                                                  ю
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+report.tex:111: Package inputenc Error: Unicode character ю (U+044E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 ...acognition and memory recall ability юю
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
+
+ []
+
+report.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147         first_
+                    name: & First name of Islander.\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+report.tex:147: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.147         first_name: &
+                            First name of Islander.\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+report.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147         first_name: &
+                            First name of Islander.\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+report.tex:147: Missing } inserted.
+<inserted text> 
+                }
+l.147         first_name: &
+                            First name of Islander.\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+report.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148         last_
+                   name: & Last name of Islander.\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+report.tex:148: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.148         last_name: &
+                           Last name of Islander.\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+report.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148         last_name: &
+                           Last name of Islander.\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+report.tex:148: Missing } inserted.
+<inserted text> 
+                }
+l.148         last_name: &
+                           Last name of Islander.\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+report.tex:150: Missing $ inserted.
+<inserted text> 
+                $
+l.150         Happy_
+                    Sad_group: & Happy or Sad Memory priming block.\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+report.tex:150: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.150         Happy_Sad_group: &
+                                 Happy or Sad Memory priming block.\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+report.tex:150: Missing $ inserted.
+<inserted text> 
+                $
+l.150         Happy_Sad_group: &
+                                 Happy or Sad Memory priming block.\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+report.tex:150: Missing } inserted.
+<inserted text> 
+                }
+l.150         Happy_Sad_group: &
+                                 Happy or Sad Memory priming block.\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+report.tex:153: Missing $ inserted.
+<inserted text> 
+                $
+l.153         Mem_
+                  Score_Before: & Seconds - how long it took to finish a mem...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+report.tex:153: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.153         Mem_Score_Before: &
+                                  Seconds - how long it took to finish a mem...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+report.tex:153: Missing $ inserted.
+<inserted text> 
+                $
+l.153         Mem_Score_Before: &
+                                  Seconds - how long it took to finish a mem...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+report.tex:153: Missing } inserted.
+<inserted text> 
+                }
+l.153         Mem_Score_Before: &
+                                  Seconds - how long it took to finish a mem...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+report.tex:154: Missing $ inserted.
+<inserted text> 
+                $
+l.154         Mem_
+                  Score_After: & Seconds - how long it took to finish a memo...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+report.tex:154: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.154         Mem_Score_After: &
+                                 Seconds - how long it took to finish a memo...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+report.tex:154: Missing $ inserted.
+<inserted text> 
+                $
+l.154         Mem_Score_After: &
+                                 Seconds - how long it took to finish a memo...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+report.tex:154: Missing } inserted.
+<inserted text> 
+                }
+l.154         Mem_Score_After: &
+                                 Seconds - how long it took to finish a memo...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) [5]
+<figures/raw_data_analysis_01.JPG, id=37, 605.26125pt x 368.1253pt>
+File: figures/raw_data_analysis_01.JPG Graphic file (type jpg)
+<use figures/raw_data_analysis_01.JPG>
+Package pdftex.def Info: figures/raw_data_analysis_01.JPG  used on input line 1
+81.
+(pdftex.def)             Requested size: 284.52756pt x 173.05261pt.
+ [6 <./figures/raw_data_analysis_01.JPG>] [7]
+Overfull \hbox (9.56493pt too wide) in paragraph at lines 232--233
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (3.56635pt too wide) in paragraph at lines 236--237
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[8]
+Overfull \hbox (3.56635pt too wide) in paragraph at lines 263--264
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.56067pt too wide) in paragraph at lines 280--281
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.56067pt too wide) in paragraph at lines 281--282
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.56067pt too wide) in paragraph at lines 282--283
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.56067pt too wide) in paragraph at lines 293--294
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.56067pt too wide) in paragraph at lines 295--296
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[9]
+Overfull \hbox (15.5635pt too wide) in paragraph at lines 325--326
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[10] [11]
+Overfull \hbox (39.55783pt too wide) in paragraph at lines 409--410
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (111.5408pt too wide) in paragraph at lines 411--412
+[][][][][][][][][][][][][][][][] 
+ []
+
+[12] [13]
+Overfull \hbox (39.55783pt too wide) in paragraph at lines 488--489
+[][][][][][][][][][][][][][][][][] 
+ []
+
+[14] [15] [16]
+<figures/correlation.png, id=74, 1204.5pt x 1211.52625pt>
+File: figures/correlation.png Graphic file (type png)
+<use figures/correlation.png>
+Package pdftex.def Info: figures/correlation.png  used on input line 596.
+(pdftex.def)             Requested size: 284.52756pt x 286.18762pt.
+ [17 <./figures/correlation.png>]
+<figures/msa-general-view.png, id=79, 489.83pt x 331.2375pt>
+File: figures/msa-general-view.png Graphic file (type png)
+<use figures/msa-general-view.png>
+Package pdftex.def Info: figures/msa-general-view.png  used on input line 604.
+(pdftex.def)             Requested size: 284.52756pt x 192.41103pt.
+<figures/dossage-effect.png, id=80, 443.6575pt x 309.155pt>
+File: figures/dossage-effect.png Graphic file (type png)
+<use figures/dossage-effect.png>
+Package pdftex.def Info: figures/dossage-effect.png  used on input line 612.
+(pdftex.def)             Requested size: 284.52756pt x 198.2642pt.
+<figures/age-groups-general-view.png, id=81, 933.4875pt x 435.6275pt>
+File: figures/age-groups-general-view.png Graphic file (type png)
+<use figures/age-groups-general-view.png>
+Package pdftex.def Info: figures/age-groups-general-view.png  used on input lin
+e 619.
+(pdftex.def)             Requested size: 284.52756pt x 132.77646pt.
+ [18 <./figures/msa-general-view.png> <./figures/dossage-effect.png>]
+<figures/age-general-view.png, id=88, 924.45375pt x 435.6275pt>
+File: figures/age-general-view.png Graphic file (type png)
+<use figures/age-general-view.png>
+Package pdftex.def Info: figures/age-general-view.png  used on input line 625.
+(pdftex.def)             Requested size: 284.52756pt x 134.07265pt.
+ [19 <./figures/age-groups-general-view.png> <./figures/age-general-view.png>]
+report.tex:645: Missing number, treated as zero.
+<to be read again> 
+                   o
+l.645     [online]
+                   Available at: https://en.wikipedia.org/wiki/Column\_(data...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+report.tex:645: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   o
+l.645     [online]
+                   Available at: https://en.wikipedia.org/wiki/Column\_(data...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (11.61687pt too wide) in paragraph at lines 648--649
+\T1/cmr/m/n/10 Avail-able at: https://www.sciencedirect.com/science/article/pii
+/S1319157815000671 [Ac-cessed
+ []
+
+
+Package glossaries Warning: No \printglossary or \printglossaries found. 
+(Remove \makeglossaries if you don't want any glossaries.) 
+This document will not have a glossary.
+
+[20] (D:/Projects\ML\04-report\auxil\report.aux) ) 
+Here is how much of TeX's memory you used:
+ 12419 strings out of 481005
+ 197991 string characters out of 2910584
+ 699877 words of memory out of 3000000
+ 28013 multiletter control sequences out of 15000+200000
+ 543138 words of font info for 45 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,7n,74p,1010b,1638s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\ASUS K55VD\AppData
+\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcti1000.pk> <C:\Users\ASU
+S K55VD\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk
+> <C:\Users\ASUS K55VD\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi
+600\ecbx1200.pk> <C:\Users\ASUS K55VD\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\ASUS K55VD\AppData\Local\MiKTeX\2.9\f
+onts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\ASUS K55VD\AppData\Loc
+al\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\ASUS K5
+5VD\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C
+:\Users\ASUS K55VD\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1000.pk> <C:\Users\ASUS K55VD\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecrm1000.pk> <C:\Users\ASUS K55VD\AppData\Local\MiKTeX\2.9\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk> <C:\Users\ASUS K55VD\AppData\Local\M
+iKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\ASUS K55VD\
+AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on D:/Projects\ML\04-report\out\report.pdf (21 pages, 458183 byt
+es).
+PDF statistics:
+ 512 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

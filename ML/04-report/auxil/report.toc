@@ -1,0 +1,71 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{4}%
+\contentsline {subsection}{\numberline {1.1}Background}{4}%
+\contentsline {subsubsection}{\numberline {1.1.1}Building the Case}{4}%
+\contentsline {paragraph}{Anti-Anxiety Medicine}{4}%
+\contentsline {paragraph}{Happy Memories}{4}%
+\contentsline {paragraph}{Sad Memories}{4}%
+\contentsline {subsubsection}{\numberline {1.1.2}Participants}{4}%
+\contentsline {subsection}{\numberline {1.2}Aim and objectives}{4}%
+\contentsline {section}{\numberline {2}Data set}{5}%
+\contentsline {subsection}{\numberline {2.1}Description}{5}%
+\contentsline {subsection}{\numberline {2.2}Preparing data}{5}%
+\contentsline {paragraph}{Loading libraries}{5}%
+\contentsline {subsection}{\numberline {2.3}Sample}{6}%
+\contentsline {subsection}{\numberline {2.4}Information}{7}%
+\contentsline {subsubsection}{\numberline {2.4.1}Field types}{7}%
+\contentsline {paragraph}{Result}{7}%
+\contentsline {subsubsection}{\numberline {2.4.2}NULL's}{7}%
+\contentsline {paragraph}{Result}{7}%
+\contentsline {subsubsection}{\numberline {2.4.3}Describe}{7}%
+\contentsline {paragraph}{Result}{8}%
+\contentsline {subsection}{\numberline {2.5}Analysis}{8}%
+\contentsline {paragraph}{}{8}%
+\contentsline {section}{\numberline {3}Pre-processing}{9}%
+\contentsline {subsection}{\numberline {3.1}Trim}{9}%
+\contentsline {subsection}{\numberline {3.2}Fiels drug}{9}%
+\contentsline {subsection}{\numberline {3.3}Field Happy\_Sad\_group}{9}%
+\contentsline {subsection}{\numberline {3.4}String fields}{10}%
+\contentsline {paragraph}{Localization fields}{10}%
+\contentsline {paragraph}{Result}{10}%
+\contentsline {subsubsection}{\numberline {3.4.1}Casting}{10}%
+\contentsline {paragraph}{Result}{10}%
+\contentsline {subsection}{\numberline {3.5}Field age\_group}{11}%
+\contentsline {paragraph}{Purpose}{11}%
+\contentsline {paragraph}{Code}{11}%
+\contentsline {paragraph}{Result}{11}%
+\contentsline {subsection}{\numberline {3.6}Encoder}{12}%
+\contentsline {subsubsection}{\numberline {3.6.1}Field name}{12}%
+\contentsline {subsubsection}{\numberline {3.6.2}Rest of the fields}{12}%
+\contentsline {subsection}{\numberline {3.7}Optimization}{12}%
+\contentsline {subsubsection}{\numberline {3.7.1}int64 to int32}{12}%
+\contentsline {subsubsection}{\numberline {3.7.2}Cleaning unused objects}{12}%
+\contentsline {section}{\numberline {4}Simple Linear Regression}{13}%
+\contentsline {subsection}{\numberline {4.1}Import}{13}%
+\contentsline {subsection}{\numberline {4.2}Load}{13}%
+\contentsline {subsection}{\numberline {4.3}Prediction}{13}%
+\contentsline {subsection}{\numberline {4.4}Split}{13}%
+\contentsline {subsection}{\numberline {4.5}Train}{14}%
+\contentsline {section}{\numberline {5}Random Forest Regression}{15}%
+\contentsline {subsection}{\numberline {5.1}Build}{15}%
+\contentsline {subsection}{\numberline {5.2}Load}{15}%
+\contentsline {subsection}{\numberline {5.3}Split}{16}%
+\contentsline {subsection}{\numberline {5.4}Train}{16}%
+\contentsline {section}{\numberline {6}Explore}{17}%
+\contentsline {subsection}{\numberline {6.1}Correlation}{17}%
+\contentsline {paragraph}{}{17}%
+\contentsline {subsection}{\numberline {6.2}Memory score after medicament}{18}%
+\contentsline {paragraph}{}{18}%
+\contentsline {subsection}{\numberline {6.3}Dosage effect}{18}%
+\contentsline {paragraph}{}{18}%
+\contentsline {subsection}{\numberline {6.4}Age analysis}{19}%
+\contentsline {paragraph}{}{19}%
+\contentsline {paragraph}{}{19}%
+\contentsline {section}{\numberline {7}References}{20}%
+\contentsline {subsection}{\numberline {7.1}Glossary}{20}%
+\contentsline {paragraph}{1}{20}%
+\contentsline {paragraph}{2}{20}%
+\contentsline {subsection}{\numberline {7.2}Data set}{20}%
+\contentsline {paragraph}{1}{20}%
+\contentsline {subsection}{\numberline {7.3}Pre-processing}{20}%
+\contentsline {paragraph}{1}{20}%
